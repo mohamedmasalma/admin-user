@@ -1,0 +1,1 @@
+to vertify click <a href="{{route('companysendEmailDone',["email"=>$email,"vertifToken"=>$token])}}" >here</a>
